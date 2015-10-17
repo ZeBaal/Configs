@@ -156,7 +156,7 @@ bar {
 }
 
 #Démarrage
-exec --no-startup-id feh --bg-scale '/home/baal/Gimp-Shit/Foret-bleue.jpg'
+exec --no-startup-id feh --bg-scale '/home/baal/.config/wlpprs/Foret-bleue.jpg'
 exec --no-startup-id volumeicon &
 exec --no-startup-id pcmanfm -d &
 exec lxterminal -e tmux new-session -A -s moshiba &

@@ -1,5 +1,11 @@
-.ssh
 Desktop
+VirtualBox*
+Downloads
+downloads
+
+#Dossiers cachés non spécifiques
+.*/
+!.config
 
 # Compiled source #
 ###################

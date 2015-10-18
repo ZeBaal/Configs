@@ -15,6 +15,7 @@ downloads
 .config/filezilla/
 .config/fish/
 .config/gtk-2.0/
+.config/gtk-3.0/
 .config/htop/
 .config/leafpad/
 .config/libfm/
@@ -32,6 +33,7 @@ downloads
 .config/xarchiver/
 .esd_auth
 .gitconfig
+.gtk-bookmarks
 .lesshst
 .pulse-cookie
 .screenrc

@@ -1,5 +1,12 @@
 [Added Associations]
-image/png=feh.desktop;
+image/png=mirage.desktop;feh.desktop;
+inode/directory=feh.desktop;
+image/tiff=mirage.desktop;
+image/jpeg=mirage.desktop;
+application/pdf=xournal.desktop;
 
 [Default Applications]
-image/png=feh.desktop
+image/png=mirage.desktop
+image/tiff=mirage.desktop
+image/jpeg=mirage.desktop
+application/pdf=xournal.desktop

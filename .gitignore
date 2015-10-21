@@ -22,6 +22,8 @@ downloads
 .config/lxterminal/
 .config/mc/
 .config/menus/
+.config/mimeapps.list
+.config/mirage/
 .config/pcmanfm/
 .config/pulse/
 .config/transmission/

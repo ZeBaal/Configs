@@ -2,7 +2,8 @@
 *
 
 #ce qu'on ignore pas
-!.config/i3*
+!.config/i3/*
+!.config/i3bar/*
 !.config/luakit/*
 !.config/wlpprs/*
 !.bash_profile

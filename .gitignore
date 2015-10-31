@@ -4,7 +4,7 @@
 #ce qu'on ignore pas
 !.config/i3*
 !.config/luakit/*
-!config/wlpprs/*
+!.config/wlpprs/*
 !.bash_profile
 !.feh_bg
 !.gitignore

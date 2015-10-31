@@ -1,51 +1,18 @@
-Desktop
-VirtualBox*
-Downloads
-downloads
-.Xauthority
-.bash_history
-.bash_logout
-.bashrc
-.config/ImageMagick/
-.config/Popcorn-Time/
-.config/Trolltech.conf
-.config/chromium/
-.config/configstore/
-.config/dconf/
-.config/filezilla/
-.config/fish/
-.config/gtk-2.0/
-.config/gtk-3.0/
-.config/htop/
-.config/leafpad/
-.config/libfm/
-.config/lxterminal/
-.config/mc/
-.config/menus/
-.config/mimeapps.list
-.config/mirage/
-.config/pcmanfm/
-.config/pulse/
-.config/transmission/
-.config/unity3d/
-.config/user-dirs.dirs
-.config/user-dirs.locale
-.config/vlc/
-.config/volumeicon/
-.config/xarchiver/
-.esd_auth
-.gitconfig
-.gtk-bookmarks
-.lesshst
-.pulse-cookie
-.screenrc
-.steampath
-.steampid
-.viminfo
+#On ignore tout par défaut
+*
 
-#Dossiers cachés non spécifiques
-.*/
-!.config
+#ce qu'on ignore pas
+!.config/i3*
+!.config/luakit/*
+!config/wlpprs/*
+!.bash_profile
+!.feh_bg
+!.gitignore
+!.hushlogin
+!.tmux.conf
+!.xinitrc
+!.README.md
+
 
 # Compiled source #
 ###################
